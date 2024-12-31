@@ -60,8 +60,6 @@ Here are some of the software and tools I frequently use:
 
 ## 🌐 Social Media
 
-Feel free to connect with me on social media:
-
 - ![Twitter](https://img.icons8.com/color/48/000000/twitter.png) **Twitter**: [click](https://x.com/CristaferWhite)
 - ![Discord](https://img.icons8.com/color/48/000000/discord.png) **Discord**: cwzd_
 
