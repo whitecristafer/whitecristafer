@@ -39,7 +39,7 @@ Here are some of the software and tools I frequently use:
 
 <a href="https://www.sublimetext.com/"><img alt="Sublime Text" title="Sublime Text" src="https://avatars1.githubusercontent.com/u/684879?s=200&v=4" height="42"></a>
 <a href="https://code.visualstudio.com/"><img alt="VSCode" title="VSCode" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="42"></a>
-<a href="https://visualstudio.microsoft.com/ru/"><img alt="Visual Studio 2022" title="Visual Studio 2022" src="" height="42"></a>
+<a href="https://visualstudio.microsoft.com/ru/"><img alt="Visual Studio 2022" title="Visual Studio 2022" src="https://img.icons8.com/color/48/000000/visual-studio.png" height="42"></a>
 <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://img.icons8.com/color/48/000000/intellij-idea.png" height="42"></a>
 <a href="https://www.adobe.com/ru/products/photoshop.html"><img alt="Photoshop" title="Photoshop" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" height="42"></a>
 <a href="https://www.adobe.com/products/illustrator.html"><img alt="Illustrator" title="Illustrator" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" height="42"></a>
@@ -47,6 +47,6 @@ Here are some of the software and tools I frequently use:
 
 
 
-###
 
 
+<img src="assets/cat-sleep.gif" height="200" />
