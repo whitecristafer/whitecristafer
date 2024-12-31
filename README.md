@@ -60,14 +60,6 @@ Here are some of the software and tools I frequently use:
  <img width="" src="https://github-profile-trophy.vercel.app/?username=whitecristafer&theme=nord" alt="Top language used in my repos" />
 </div>
 
-###
-
-## 🌐 Social Media
-
-- ![Twitter](https://img.icons8.com/color/48/000000/twitter.png) **Twitter**: [click](https://x.com/CristaferWhite)
-- ![Discord](https://img.icons8.com/color/48/000000/discord.png) **Discord**: cwzd_
-
-
 <div align="center">
     <img src="assets/cat-sleep.gif" height="200" />
 </div>
