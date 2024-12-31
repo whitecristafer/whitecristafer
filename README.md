@@ -52,7 +52,9 @@ Here are some of the software and tools I frequently use:
 ## 📈 Statistics 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=whitecristafer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitecristafer&layout=compact&hide_title=1&card_width=300&theme=nord" alt="Top language used in my repos" />
+</div>
+<div align="center">
+ <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitecristafer&layout=compact&hide_title=1&card_width=300&theme=nord" alt="Top language used in my repos" />
 </div>
 <div align="center">
  <img width="" src="https://github-profile-trophy.vercel.app/?username=whitecristafer&theme=nord" alt="Top language used in my repos" />
