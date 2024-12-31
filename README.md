@@ -1,3 +1,4 @@
+
 <h1 align="center"><img src="assets/Hi.gif" height="32" /> Welcome to My GitHub Profile </h1>
 
 ###
@@ -5,6 +6,7 @@
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
+
 
 ###
 
@@ -45,8 +47,25 @@ Here are some of the software and tools I frequently use:
 <a href="https://www.adobe.com/products/illustrator.html"><img alt="Illustrator" title="Illustrator" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" height="42"></a>
 <a href="https://www.figma.com/"><img alt="Figma" title="Figma" src="https://img.icons8.com/color/48/000000/figma.png" height="42"></a>
 
+###
+
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitecristafer&layout=compact&hide_title=1&card_width=300&theme=nord" alt="Top language used in my repos" />
+</div>
+<div align="center">
+ <img width="" src="https://github-profile-trophy.vercel.app/?username=whitecristafer&theme=nord" alt="Top language used in my repos" />
+</div>
+
+###
+
+## 🌐 Social Media
+
+Feel free to connect with me on social media:
+
+- ![Twitter](https://img.icons8.com/color/48/000000/twitter.png) **Twitter**: [click](https://x.com/CristaferWhite)
+- ![Discord](https://img.icons8.com/color/48/000000/discord.png) **Discord**: cwzd_
 
 
-
-
-<img src="assets/cat-sleep.gif" height="200" />
+<div align="center">
+    <img src="assets/cat-sleep.gif" height="200" />
+</div>
