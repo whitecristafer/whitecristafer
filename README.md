@@ -12,14 +12,14 @@
 
 I have experience in the following programming languages:
 
-- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C++**
-- ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) **C#**
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**
-- ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png) **Kotlin**
-- ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) **CSS**
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript/NodeJS**
+<a href="https://learn.microsoft.com/ru-ru/cpp/cpp/?view=msvc-170"><img alt="cpp" title="cpp" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="42"></a>
+<a href="https://dotnet.microsoft.com/ru-ru/languages/csharp"><img alt="cs" title="cs" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" height="42"></a>
+<a href="https://www.java.com/"><img alt="java" title="java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="42"></a>
+<a href="https://kotlinlang.org/"><img alt="kotlin" title="kotlin" src="https://img.icons8.com/color/48/000000/kotlin.png" height="42"></a>
+<a href="https://www.python.org/"><img alt="python" title="python" src="https://img.icons8.com/color/48/000000/python.png" height="42"></a>
+<a href="https://www.python.org/"><img alt="html" title="html" src="https://img.icons8.com/color/48/000000/html-5.png" height="42"></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="css" title="css" src="https://img.icons8.com/color/48/000000/css3.png" height="42"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="javascript" title="javascript" src="https://img.icons8.com/color/48/000000/javascript.png" height="42"></a>
 
 ###
 
@@ -27,9 +27,9 @@ I have experience in the following programming languages:
 
 I work across various operating systems, including:
 
-- ![Debian](https://img.icons8.com/color/48/000000/debian.png) **Debian Linux**
-- ![Kali](https://img.icons8.com/color/48/000000/kali-linux.png) **Kali Linux**
-- ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) **Windows**
+<a href="https://www.debian.org/"><img alt="Debian" title="Debian" src="https://img.icons8.com/color/48/000000/debian.png" height="42"></a>
+<a href="https://kali.org/"><img alt="Kali Linux" title="Kali Linux" src="https://img.icons8.com/color/48/000000/kali-linux.png" height="42"></a>
+<a href="https://www.microsoft.com/"><img alt="Windows" title="Windows" src="https://img.icons8.com/color/48/000000/windows-11.png" height="42"></a>
 
 ###
 
@@ -37,17 +37,15 @@ I work across various operating systems, including:
 
 Here are some of the software and tools I frequently use:
 
-- ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio.png) **Visual Studio 2022**
-- ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png) **IntelliJ IDEA**
-- ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) **Visual Studio Code**
-- ![Sublime Text](https://img.icons8.com/color/48/000000/sublime-text.png) **Sublime Text**
-- ![SQLite](https://img.icons8.com/color/48/000000/sqlite.png) **SQLite Browser**
-- ![Blender](https://img.icons8.com/color/48/000000/blender.png) **Blender**
-- ![Cinema 4D](https://img.icons8.com/color/48/000000/cinema-4d.png) **Cinema 4D**
-- ![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png) **Photoshop**
-- ![Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png) **Illustrator**
-- ![Figma](https://img.icons8.com/color/48/000000/figma.png) **Figma**
-- ![GCC](https://img.icons8.com/color/48/000000/gcc.png) **GCC**
+<a href="https://www.sublimetext.com/"><img alt="Sublime Text" title="Sublime Text" src="https://avatars1.githubusercontent.com/u/684879?s=200&v=4" height="42"></a>
+<a href="https://code.visualstudio.com/"><img alt="VSCode" title="VSCode" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="42"></a>
+<a href="https://visualstudio.microsoft.com/ru/"><img alt="Visual Studio 2022" title="Visual Studio 2022" src="" height="42"></a>
+<a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://img.icons8.com/color/48/000000/intellij-idea.png" height="42"></a>
+<a href="https://www.adobe.com/ru/products/photoshop.html"><img alt="Photoshop" title="Photoshop" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" height="42"></a>
+<a href="https://www.adobe.com/products/illustrator.html"><img alt="Illustrator" title="Illustrator" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" height="42"></a>
+<a href="https://www.figma.com/"><img alt="Figma" title="Figma" src="https://img.icons8.com/color/48/000000/figma.png" height="42"></a>
+
+
 
 ###
 
